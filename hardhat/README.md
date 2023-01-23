@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+FakeNFTMarketplace deployed to:  `0xDBa5D66fDCd0015B99F5031091Db147E553948e0`
+CryptoDevsDAO deployed to:  `0xdCa53Fc917c35f940F61b67563c4b9aC1F2f9AF9`
